@@ -1,0 +1,6 @@
+{
+  "name": "Morelganj Sheba",
+  "description": "Smart civic directory, hospital, school, government services, and symptom solver for Morrelganj Upazila, Bagerhat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
